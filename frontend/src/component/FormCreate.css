@@ -1,0 +1,49 @@
+.app-container{
+
+    font-family: 'Prompt', sans-serif;
+    background: linear-gradient(90deg, #BEAED5 0%,  #D0CDDA 150%);
+    width: 700px;
+    border-radius: 5px ;
+    height:100%;
+    padding: 50px;
+  
+  }
+  .app-header{
+    padding: 20px;
+    font-size:30px;
+    color: black;
+  }
+.input-text{
+    margin: 10px;
+  }
+  .input{
+    font-size: 18px;
+    margin-top: 20px;
+    width:300px;
+    padding: 10px;
+    font-family: 'Prompt', sans-serif;
+    border-radius: 5px;
+    border: none;
+  }
+
+.label-text{
+    font-size: 18px;
+    padding-right:10px ;
+   
+}
+.button-container{
+    padding-top: 20px;
+}
+.button-add{
+    color: aliceblue;
+  background-color: #7E7BAE ;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  width: 100px;
+  padding: 5px;
+  font-family: 'Prompt', sans-serif;
+  right: 20px;
+  float:right;
+ 
+}
